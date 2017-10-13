@@ -92,8 +92,8 @@ font-family:"Adobe Garamond Pro";
 }
 
 .navigation-clean.navbar .navbar-nav > li > a {
-  padding-left:18px;
-  padding-right:18px;
+  padding-left:10px;
+  padding-right:10px;
 }
 
 .navigation-clean.navbar-default .navbar-nav > li > a {

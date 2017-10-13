@@ -1,6 +1,6 @@
 .navbar.navbar-default {
   text-align:center; font-weight: bold;
-  margin-top: 10px;
+
 }
 
 #navigator{
@@ -9,13 +9,13 @@ font-family:"Sans Serif";
 
 .navigation-clean {
   background:#fff;
-  padding-top:8px;
-  padding-bottom:8px;
+  padding-top:10px;
+  padding-bottom:10px;
   color:#333;
   border-radius:0;
   box-shadow:none;
   border:none;
-  margin-bottom:5px;
+  margin-bottom:0px;
 }
 
 @media (max-width:767px) {

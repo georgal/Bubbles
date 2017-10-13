@@ -1,9 +1,10 @@
 .navbar.navbar-default {
   text-align:center; font-weight: bold;
+  margin-top: 10px;
 }
 
 #navigator{
-font-family:"Adobe Garamond Pro";
+font-family:"Sans Serif";
 }
 
 .navigation-clean {

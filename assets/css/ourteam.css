@@ -1,5 +1,34 @@
 .glyphicon,.icon{font-size:16px;display:inline-block;color:#666;margin:0 3px;width:30px;height:20px;text-align:center;line-height:30px}
 
+p.bio{
+  overflow: auto;
+    height: 100px;
+    padding: .5rem;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: none;
+}
+
+/*.bio::-webkit-scrollbar {
+    display: none;
+}*/
+
+#scroller::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+#scroller::-webkit-scrollbar
+{
+	width: 2px;
+	background-color: #333;
+}
+
+#scroller::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+}
+
 .our-team{
     box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.15);
     text-align: center;
@@ -177,4 +206,3 @@
     .our-team{ margin-bottom: 35px; }
 }@charset "utf-8";
 /* CSS Document */
-

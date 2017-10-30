@@ -2,7 +2,7 @@
 
 p.bio{
   overflow: auto;
-    height: 100px;
+    height: 120px;
     padding: .5rem;
     -webkit-overflow-scrolling: touch;
     -ms-overflow-style: none;
